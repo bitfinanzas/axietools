@@ -1,3 +1,3 @@
 # Axie Tools
-Tired of counting enemy energy? Want to know how to count cards? Axie Tools is a page where one can do all of this. This is perfect for lazy people like me who just want to see numbers on the screen and don't want to be chrunching numbers in game and just try to play my best :)
+¿Estás cansado de contar la energía enemiga? ¿Quieres saber cómo contar cartas? Axie Tools es una página donde se puede hacer todo esto. Esto es perfecto para las personas perezosas como yo que solo quieren ver números en la pantalla y no quieren estar crujiendo números en el juego y solo intentar jugar lo mejor que puedo :)
 
